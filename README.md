@@ -12,6 +12,8 @@ Weekly Homework Files
 
 Sam's Fintech BootsCamp project. It's very important to learn and use coding into automation and workspace, so let's study together!
 
+**Please properly use the available content!**
+
 
 ---
 
@@ -23,8 +25,9 @@ I like to use VS code as the primary editor, and the Python version is 3.8.8 64-
 
 ## Installation Guide
 
-pip install fire
-pip install questionary
+**pip install fire**
+
+**pip install questionary**
 
 ---
 
