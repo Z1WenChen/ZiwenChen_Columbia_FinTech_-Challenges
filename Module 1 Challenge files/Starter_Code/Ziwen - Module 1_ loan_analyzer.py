@@ -135,9 +135,9 @@ def calculate_present_value(future_value, remaining_months, annual_discount_rate
 # YOUR CODE HERE!
 annual_discount_rate = 0.2
 future_value_of_new_loan = new_loan.get("future_value")
-print (future_value_of_new_loan)
+print (f"The future value of the new loan is: ${future_value_of_new_loan}")
 remaining_months_of_new_loan = new_loan.get("remaining_months")
-print (remaining_months_of_new_loan)
+print (f"The remaining months of the new loan is {remaining_months_of_new_loan}")
 new_loan_present_value = calculate_present_value(future_value_of_new_loan, remaining_months_of_new_loan, annual_discount_rate)
 print (f"The present value of new loan is: ${new_loan_present_value: .2f}")
 
@@ -214,7 +214,7 @@ Output this list of inexpensive loans to a csv file
 header = ["loan_price", "remaining_months", "repayment_interval", "future_value"]
 
 # Set the output file path
-output_path = Path("C:\\Self-Learning\\Columbia Fintech BootsCamp\\Model 1\\Module 1 Challenge\\Starter_Code\\inexpensive_loans.csv")
+output_path = Path("inexpensive_loans.csv")
 
 # @TODO: Use the csv library and `csv.writer` to write the header row
 # and each row of `loan.values()` from the `inexpensive_loans` list.
