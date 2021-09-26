@@ -1,0 +1,50 @@
+   79  conda install fire -c conda-forge
+   80  pip install fire
+   81  pip install fire
+   82  python app.py
+   83  pwd
+   84  pip install questionary
+   85  git config --global user.name Sam Chen
+   86  git config --global user.email zc1418@nyu.edu
+   87  pwd
+   88  cd ..\..\Self-Learning\Columbia Fintech BootsCamp\
+   89  cd ..
+   90  cd ..
+   91  cd Self-Learning/Columbia\ Fintech\ BootsCamp/
+   92  jupyter lab
+   93  C:/Users/samch/anaconda3/Scripts/activate
+   94  conda activate dev
+   95  cd ZiwenChen_Columbia_FinTech_-Challenges/
+   96  git status
+   97  git add -A
+   98  git status
+   99  git commit -m "Completed the Chanllenge by revise the code in saving qualifying loans function and add inputs at the end of the code"
+  100  git push
+  101  ls
+  102  cd Module\ 2\ Challenge\ files/
+  103  python app.py
+  104  ls
+  105  cd Starter_Code/
+  106  cd loan_qualifier_app/
+  107  python app.py
+  108  cd ..
+  109  cd ..
+  110  cd ..
+  111  git status
+  112  git add -A
+  113  git commit -m"upload the qualifying_loans.csv"
+  114  git push
+  115  cd Module\ 1\ Challenge\ files/
+  116  cd Starter_Code/
+  117  python Ziwen\ -\ Module\ 1_\ loan_analyzer.py 
+  118  cd ..
+  119  cd ..
+  120  git status
+  121  git add -A
+  122  git commit -m"update README to complete Documentation"
+  123  git push
+  124  git status
+  125  git add -A
+  126  git commit -m"Update README again on MIT License"
+  127  git push
+  128  history 50 > terminal_history.txt
