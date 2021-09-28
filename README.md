@@ -54,7 +54,7 @@ to check Week 2 challenge (run app.py works too) in Module 2 Challenge files
 
 
 
-**python Ziwen_crypto_arbitrage.ipynb** 
+**jupyter lab Ziwen_crypto_arbitrage.ipynb** 
 
 to check Week 3 challenge (run crypto_arbitrage.ipynb works too) in Module 3 Challenge files
 
