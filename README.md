@@ -52,6 +52,12 @@ to check Week 1 challenge (run loan_analyzer.py works too) in Module 1 Challenge
 
 to check Week 2 challenge (run app.py works too) in Module 2 Challenge files
 
+
+
+**python Ziwen_crypto_arbitrage.ipynb** 
+
+to check Week 3 challenge (run crypto_arbitrage.ipynb works too) in Module 3 Challenge files
+
 ---
 
 ## Contributors
