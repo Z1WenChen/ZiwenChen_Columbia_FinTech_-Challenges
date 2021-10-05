@@ -58,6 +58,12 @@ to check Week 2 challenge (run app.py works too) in Module 2 Challenge files
 
 to check Week 3 challenge (run crypto_arbitrage.ipynb works too) in Module 3 Challenge files
 
+
+
+**jupyter lab Ziwen_risk_return_analysis.ipynb** 
+
+to check Week 4 challenge (run risk_return_analysis.ipynb works too) in Module 4 Challenge files
+
 ---
 
 ## Contributors
