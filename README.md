@@ -64,6 +64,11 @@ to check Week 3 challenge (run crypto_arbitrage.ipynb works too) in Module 3 Cha
 
 to check Week 4 challenge (run risk_return_analysis.ipynb works too) in Module 4 Challenge files
 
+
+**jupyter lab financial_planning_tools.ipynb** 
+
+to check Week 5 challenge in Module 5 Challenge files
+
 ---
 
 ## Contributors
