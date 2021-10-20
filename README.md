@@ -69,6 +69,12 @@ to check Week 4 challenge (run risk_return_analysis.ipynb works too) in Module 4
 
 to check Week 5 challenge in Module 5 Challenge files
 
+
+**jupyter lab san_francisco_housing.ipynb** 
+to check Week 6 challenge in Module 5 Challenge files
+
+
+
 ---
 
 ## Contributors
