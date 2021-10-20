@@ -72,7 +72,7 @@ to check Week 5 challenge in Module 5 Challenge files
 
 **jupyter lab san_francisco_housing.ipynb** 
 
-to check Week 6 challenge in Module 5 Challenge files
+to check Week 6 challenge in Module 6 Challenge files
 
 
 
