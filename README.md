@@ -75,6 +75,11 @@ to check Week 5 challenge in Module 5 Challenge files
 to check Week 6 challenge in Module 6 Challenge files
 
 
+**jupyter lab etf_analyzer.ipynb** 
+
+to check Week 7 challenge in Module 7 Challenge files
+
+
 
 ---
 
