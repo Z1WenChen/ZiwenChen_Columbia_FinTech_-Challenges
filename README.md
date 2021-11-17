@@ -47,7 +47,6 @@ Properly install Git Bash, and use
 to check Week 1 challenge (run loan_analyzer.py works too) in Module 1 Challenge files
 
 
-
 **python app Ziwen Complete** 
 
 to check Week 2 challenge (run app.py works too) in Module 2 Challenge files
@@ -57,7 +56,6 @@ to check Week 2 challenge (run app.py works too) in Module 2 Challenge files
 **jupyter lab Ziwen_crypto_arbitrage.ipynb** 
 
 to check Week 3 challenge (run crypto_arbitrage.ipynb works too) in Module 3 Challenge files
-
 
 
 **jupyter lab Ziwen_risk_return_analysis.ipynb** 
@@ -80,6 +78,9 @@ to check Week 6 challenge in Module 6 Challenge files
 to check Week 7 challenge in Module 7 Challenge files
 
 
+**jupyter lab crypto_investments.ipynb** 
+
+to check Week 10 challenge in Module 10 Challenge files
 
 ---
 
