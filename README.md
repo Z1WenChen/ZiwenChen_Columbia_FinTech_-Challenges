@@ -82,6 +82,10 @@ to check Week 7 challenge in Module 7 Challenge files
 
 to check Week 10 challenge in Module 10 Challenge files
 
+**Colab forecasting_net_prophet.ipynb** 
+
+to check Week 11 challenge in Module 11 Challenge files
+
 ---
 
 ## Contributors
