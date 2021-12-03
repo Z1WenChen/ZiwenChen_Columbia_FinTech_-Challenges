@@ -86,6 +86,10 @@ to check Week 10 challenge in Module 10 Challenge files
 
 to check Week 11 challenge in Module 11 Challenge files
 
+**jupyter lab credit_risk_resampling** 
+
+to check Week 12 challenge in Module 12 Challenge files
+
 ---
 
 ## Contributors
