@@ -90,6 +90,10 @@ to check Week 11 challenge in Module 11 Challenge files
 
 to check Week 12 challenge in Module 12 Challenge files
 
+**jupyter lab venture_funding_with_deep_learning** 
+
+to check Week 13 challenge in Module 13 Challenge files
+
 ---
 
 ## Contributors
