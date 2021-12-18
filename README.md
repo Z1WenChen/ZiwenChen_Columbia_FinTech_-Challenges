@@ -94,6 +94,12 @@ to check Week 12 challenge in Module 12 Challenge files
 
 to check Week 13 challenge in Module 13 Challenge files
 
+**jupyter lab machine_learning_trading_bot** 
+
+to check Week 14 challenge in Module 14 Challenge files
+
+And please read "README.md" in Module 14 Challenge files to check evaluation report
+
 ---
 
 ## Contributors
