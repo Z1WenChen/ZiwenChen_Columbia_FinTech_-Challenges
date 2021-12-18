@@ -5,11 +5,11 @@
 
 **Training period: 3 months, Short SMA Window: 4, Long SMA Window: 100** 
 
-![](Module_14_Challenge_file/Starter_Code/SVM_Baseline.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_14_Challenge_file/Starter_Code/SVM_Baseline.png)
 
 **The SVM baseline model Conclusion: Based on the previous figure, we can find that strategy returns always outperforms the actual returns. The strategy returns is 1.5 in the end.** 
 
-
+------------------------------------------------------------------------------------------------------------
 
 **The SVM 2nd model input features:**
 
@@ -19,7 +19,7 @@
 
 **The SVM 2nd model Conclusion: Based on the previous figure, we can find that strategy returns not always outperforms the actual returns. But, the strategy returns is 1.8 in the end. Therefore, it seems that the strategy returns would increase if increasing the training window from 3 months to 6 months.** 
 
-
+------------------------------------------------------------------------------------------------------------
 
 **The SVM 3rd model input features:**
 
@@ -29,7 +29,7 @@
 
 **The SVM 3rd model Conclusion: Based on the previous figure, we can find that strategy returns always underperforms the actual returns. The strategy returns is 1.4 in the end. Therefore, it seems that the strategy returns would decrease if increasing the short window of SMA features** 
 
-
+------------------------------------------------------------------------------------------------------------
 
 **The LogisticRegression 2nd model input features:**
 
