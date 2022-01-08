@@ -100,6 +100,14 @@ to check Week 14 challenge in Module 14 Challenge files
 
 And please read "README.md" in Module 14 Challenge files to check evaluation report
 
+
+**Please check Week 15 challenge in Module 15 Challenge files** 
+
+Clip 1 is the RoboAdvisor without Lambda deployed
+Clip 2 is the RoboAdvisor with Lambda deployed
+Clip 3 is the walkthrough Lambda function
+My completed Lambda function is in the "Lambda" folder called "Sam_lambda_function.py"
+
 ---
 
 ## Contributors
