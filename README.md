@@ -119,6 +119,7 @@ Two Screenshots in the "README.md" of Module 18 Challenge:
 
 **Validity of the BlockChain**
 ![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_18_Challenge_files/Starter_Code/Sam_Blocks_Valid.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_18_Challenge_files/Starter_Code/Sam_Blocks_Valid_Terminal.png)
 
 
 ---
