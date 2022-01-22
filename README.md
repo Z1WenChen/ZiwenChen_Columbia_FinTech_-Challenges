@@ -108,6 +108,19 @@ Clip 2 is the RoboAdvisor with Lambda deployed
 Clip 3 is the walkthrough Lambda function
 My completed Lambda function is in the "Lambda" folder called "Sam_lambda_function.py"
 
+**Please use streamlit run pychain.py** 
+
+to check Week 18 challenge in Module 18 Challenge files
+
+Two Screenshots in the "README.md" of Module 18 Challenge:
+
+**Multiple blocks' BlockChain**
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_18_Challenge_files/Starter_Code/Sam_Blocks.png)
+
+**Validity of the BlockChain**
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_18_Challenge_files/Starter_Code/Sam_Blocks_Valid.png)
+
+
 ---
 
 ## Contributors

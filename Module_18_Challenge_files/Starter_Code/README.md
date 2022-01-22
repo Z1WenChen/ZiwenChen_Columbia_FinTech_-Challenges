@@ -1,16 +1,16 @@
 
 
-**streamlit run pychain.py** 
+**Please use streamlit run pychain.py** 
 
 to check Week 18 challenge in Module 18 Challenge files
 
 Two Screenshots in the "README.md" of Module 18 Challenge:
 
 **Multiple blocks' BlockChain**
-![alt text](https://github.com/Z1WenChen/Project_2/blob/main/Files/momyresample.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_18_Challenge_files/Starter_Code/Sam_Blocks.png)
 
 **Validity of the BlockChain**
-![alt text](https://github.com/Z1WenChen/Project_2/blob/main/Files/momyresample.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_18_Challenge_files/Starter_Code/Sam_Blocks_Valid.png)
 
 ---
 
