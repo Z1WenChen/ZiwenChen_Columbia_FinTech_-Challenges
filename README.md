@@ -46,53 +46,67 @@ Properly install Git Bash, and use
 
 to check Week 1 challenge (run loan_analyzer.py works too) in Module 1 Challenge files
 
+---------------------------------------------------------------------------------------------------
 
 **python app Ziwen Complete** 
 
 to check Week 2 challenge (run app.py works too) in Module 2 Challenge files
 
-
+---------------------------------------------------------------------------------------------------
 
 **jupyter lab Ziwen_crypto_arbitrage.ipynb** 
 
 to check Week 3 challenge (run crypto_arbitrage.ipynb works too) in Module 3 Challenge files
 
+---------------------------------------------------------------------------------------------------
 
 **jupyter lab Ziwen_risk_return_analysis.ipynb** 
 
 to check Week 4 challenge (run risk_return_analysis.ipynb works too) in Module 4 Challenge files
 
+---------------------------------------------------------------------------------------------------
 
 **jupyter lab financial_planning_tools.ipynb** 
 
 to check Week 5 challenge in Module 5 Challenge files
 
+---------------------------------------------------------------------------------------------------
 
 **jupyter lab san_francisco_housing.ipynb** 
 
 to check Week 6 challenge in Module 6 Challenge files
 
+---------------------------------------------------------------------------------------------------
 
 **jupyter lab etf_analyzer.ipynb** 
 
 to check Week 7 challenge in Module 7 Challenge files
 
+---------------------------------------------------------------------------------------------------
 
 **jupyter lab crypto_investments.ipynb** 
 
 to check Week 10 challenge in Module 10 Challenge files
 
+---------------------------------------------------------------------------------------------------
+
 **Colab forecasting_net_prophet.ipynb** 
 
 to check Week 11 challenge in Module 11 Challenge files
+
+---------------------------------------------------------------------------------------------------
 
 **jupyter lab credit_risk_resampling** 
 
 to check Week 12 challenge in Module 12 Challenge files
 
+---------------------------------------------------------------------------------------------------
+
 **jupyter lab venture_funding_with_deep_learning** 
 
 to check Week 13 challenge in Module 13 Challenge files
+
+---------------------------------------------------------------------------------------------------
 
 **jupyter lab machine_learning_trading_bot** 
 
@@ -100,6 +114,7 @@ to check Week 14 challenge in Module 14 Challenge files
 
 And please read "README.md" in Module 14 Challenge files to check evaluation report
 
+---------------------------------------------------------------------------------------------------
 
 **Please check Week 15 challenge in Module 15 Challenge files** 
 
@@ -107,6 +122,8 @@ Clip 1 is the RoboAdvisor without Lambda deployed
 Clip 2 is the RoboAdvisor with Lambda deployed
 Clip 3 is the walkthrough Lambda function
 My completed Lambda function is in the "Lambda" folder called "Sam_lambda_function.py"
+
+---------------------------------------------------------------------------------------------------
 
 **Please use streamlit run pychain.py** 
 
@@ -120,6 +137,22 @@ Two Screenshots in the "README.md" of Module 18 Challenge:
 **Validity of the BlockChain**
 ![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_18_Challenge_files/Starter_Code/Sam_Blocks_Valid.png)
 ![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_18_Challenge_files/Starter_Code/Sam_Blocks_Valid_Terminal.png)
+
+---------------------------------------------------------------------------------------------------
+
+**Please use streamlit run fintech_finder.py** 
+
+to check Week 19 challenge in Module 19 Challenge files
+
+The Screenshots are in the "README.md" of Module 19 Challenge:
+
+**Fintech_finder transactions**
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_19_Challenge_file/Starter_Code/Screenshot1.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_19_Challenge_file/Starter_Code/Screenshot2.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_19_Challenge_file/Starter_Code/Screenshot3.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_19_Challenge_file/Starter_Code/Screenshot4.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_19_Challenge_file/Starter_Code/Screenshot5.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_19_Challenge_file/Starter_Code/Screenshot6.png)
 
 
 ---
