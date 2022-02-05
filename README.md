@@ -166,18 +166,18 @@ The Screenshots are in the "README.md" of Module 20 Challenge:
 
 
 **1 SetAccount Execution**
-![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_20_Challenge_file/Starter_Code/SetAcct1.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_20_Challenge_File/Starter_Code/SetAcct1.png)
 
 
 **3 Deposit Executions**
-![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_19_Challenge_file/Starter_Code/Deposit1.png)
-![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_19_Challenge_file/Starter_Code/Deposit2.png)
-![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_19_Challenge_file/Starter_Code/Deposit3.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_20_Challenge_File/Starter_Code/Deposit1.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_20_Challenge_File/Starter_Code/Deposit2.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_20_Challenge_File/Starter_Code/Deposit3.png)
 
 
 **2 Withdraw Executions**
-![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_19_Challenge_file/Starter_Code/withdraw1.png)
-![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_19_Challenge_file/Starter_Code/withdraw2.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_20_Challenge_File/Starter_Code/withdraw1.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_20_Challenge_File/Starter_Code/withdraw2.png)
 
 ---
 
