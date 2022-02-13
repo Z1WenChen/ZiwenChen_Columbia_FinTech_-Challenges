@@ -179,6 +179,28 @@ The Screenshots are in the "README.md" of Module 20 Challenge:
 ![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_20_Challenge_File/Starter_Code/withdraw1.png)
 ![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_20_Challenge_File/Starter_Code/withdraw2.png)
 
+
+---------------------------------------------------------------------------------------------------
+
+
+**Please use Sam_KaseiCoin.txt to replace KaseiCoin.sol to check the completed codes** 
+**Please use Sam_KaseiCoinCrowdsale.txt to replace KaseiCoinCrowdsale.sol to check the completed codes** 
+
+to check Week 21 challenge in Module 21 Challenge files
+
+The Screenshots and clips are in the "README.md" of Module 21 Challenge:
+
+
+**2 successful compilations of the contract**
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_21_Challenge_File/Starter_Code/KaseiCoin_compile.png)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_21_Challenge_File/Starter_Code/KaseiCoinCrowdsale_compile.png)
+
+
+
+**2 Clips of Deployer Contract and Crowdsale**
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_21_Challenge_File/Starter_Code/KAC.mp4)
+![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_21_Challenge_File/Starter_Code/KAC_SALE.mp4)
+
 ---
 
 ## Contributors
