@@ -14,8 +14,8 @@ The Screenshots and clips are in the "README.md" of Module 21 Challenge:
 
 
 **2 Clips of Deployer Contract and Crowdsale**
-![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_21_Challenge_File/Starter_Code/KAC.mp4)
-![alt text](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_21_Challenge_File/Starter_Code/KAC_SALE.mp4)
+[![Watch the video](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_21_Challenge_File/Starter_Code/KAC.mp4)
+[![Watch the video](https://github.com/Z1WenChen/ZiwenChen_Columbia_FinTech_-Challenges/blob/main/Module_21_Challenge_File/Starter_Code/KAC_SALE.mp4)
 
 ---
 
