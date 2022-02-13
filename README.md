@@ -184,6 +184,8 @@ The Screenshots are in the "README.md" of Module 20 Challenge:
 
 
 **Please use Sam_KaseiCoin.txt to replace KaseiCoin.sol to check the completed codes** 
+
+
 **Please use Sam_KaseiCoinCrowdsale.txt to replace KaseiCoinCrowdsale.sol to check the completed codes** 
 
 to check Week 21 challenge in Module 21 Challenge files
